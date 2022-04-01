@@ -34,6 +34,7 @@ $ git checkout test2
 // Change files in test2, Commit, and Checkout branch main
 $ git merge test2		(merge test2 to main)
 
+$ git merge --abort
 
 
 
