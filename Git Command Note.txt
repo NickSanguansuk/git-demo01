@@ -23,9 +23,11 @@ $ git reset --hard 271e27	(rollback to the version 271e27)
 $ git push
 $ git pull
 
+$ git clone <>
 
+$ git branch -v
 
-
+$ git branch test2
 
 
 
