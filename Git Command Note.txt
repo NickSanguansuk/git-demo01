@@ -13,10 +13,15 @@ $ git rm --cached "Git Command Note".txt
 
 $ git commit "Git Command Note".txt -m "Initial commit, added note"
 $ git commit -m "Second commit"
+$ git commit -am "Modified files"
 
 $ git log
 $ git reflog
 
+$ git reset --hard 271e27	(rollback to the version 271e27)
+
+$ git push
+$ git pull
 
 
 
