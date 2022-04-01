@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 
 abcd from main branch.
 
-efgh from main branch.
-=======
+efgh from main and test2 branch. (After solving conflict)
 
-abcd from main branch.
 
-efgh from test2 branch.
->>>>>>> test2
+
