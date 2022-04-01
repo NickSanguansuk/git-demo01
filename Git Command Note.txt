@@ -11,5 +11,20 @@ $ git add .
 
 $ git rm --cached "Git Command Note".txt
 
+$ git commit "Git Command Note".txt -m "Initial commit, added note"
+$ git commit -m "Second commit"
+
+$ git log
+$ git reflog
+
+
+
+
+
+
+
+
+
+
 
 
